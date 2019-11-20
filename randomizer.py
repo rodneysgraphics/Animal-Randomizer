@@ -15,10 +15,8 @@ hoo = ['j', 'k', 'l', 'm', 'n']
 
 while i < 30:
 	i = i + 1
-	print ("[",)
+#	print ("[",)
 	print (choice(mammals)) ,
-	print (choice(invet_terr)) ,
-	print (choice(fish)) ,
-	print ("]")
-
-
+	print (choice(invet_marine)) ,
+	print (choice(reptials)) ,
+	print ("-----")
