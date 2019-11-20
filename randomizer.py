@@ -13,7 +13,6 @@ goo = ['f', 'g', 'h', 'h', 'i']
 hoo = ['j', 'k', 'l', 'm', 'n']
 
 
-#fo = open("output.txt", "w")
 while i < 30:
 	i = i + 1
 	print ("[",)
@@ -21,6 +20,5 @@ while i < 30:
 	print (choice(invet_terr)) ,
 	print (choice(fish)) ,
 	print ("]")
-#fo.close()
 
 
