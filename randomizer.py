@@ -17,6 +17,6 @@ while i < 30:
 	i = i + 1
 #	print ("[",)
 	print (choice(mammals)) ,
-	print (choice(invet_marine)) ,
-	print (choice(reptials)) ,
+	print (choice(invet_terr)) ,
+	print (choice(amphibians)) ,
 	print ("-----")
