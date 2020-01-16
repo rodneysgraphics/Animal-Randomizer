@@ -13,11 +13,10 @@ goo = ['f', 'g', 'h', 'h', 'i']
 hoo = ['j', 'k', 'l', 'm', 'n']
 
 
-while i < 30:
+while i < 60:
 	i = i + 1
-	print "[",
-	print choice(mammals) , 
-	print choice(invet_terr) ,
-	print choice(fish) ,
-	print "]"
-
+#	print ("[",)
+	print (choice(mammals)) ,
+	print (choice(mammals)) ,
+	print (choice(invet_terr)) ,
+	print ("-----")
